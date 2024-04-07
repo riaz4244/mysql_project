@@ -1,0 +1,1 @@
+Mysql project showcasing data analytics skills through music store data analysis.
